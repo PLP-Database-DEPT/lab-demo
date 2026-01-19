@@ -28,6 +28,56 @@ By the end of this lab, you will be able to:
 - [ ] MySQL Command-Line Client
 - [ ] MySQL Workbench – visual tool
 
+**Task 1: Check Your Computer Is Ready**
+
+Open Command Prompt (Windows) or Terminal (Linux).
+Type:
+```bash
+whoami
+```
+**Task 2: Download MySQL**
+Open a web browser.
+- Search for MySQL Community Server.
+- Download the installer for your operating system.
+- Start the installation.
+- Confirm you can run commands without errors.
+
+**Task 3: Install MySQL Server**
+During installation:
+- Choose Developer Default or Server Only
+- Set a root password
+- Write it down
+- Do not forget it
+- Use default port 3306
+- Complete the installation
+
+Important:
+_The root user is the administrator of the database._
+
+**Task 4: Verify MySQL Installation**
+
+Open Command Prompt or Terminal.
+Type:
+```bash
+mysql --version
+```
+_If installed correctly, you will see a version number._
+
+**Task 5: Log Into MySQL**
+In the terminal, type:
+```sh
+mysql -u root -p
+```
+Press Enter
+Enter the root password you created
+If successful, you will see:
+```bash
+mysql>
+```
+This means:
+**MySQL is running**
+You are connected to the database
+
 #### Validation Checklist
 - [x] MySQL installed successfully
 - [x] Can run mysql --version
