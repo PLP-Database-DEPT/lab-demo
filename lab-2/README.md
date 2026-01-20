@@ -78,3 +78,21 @@ _Query OK_
 SHOW TABLES;
 ```
 You should see: _employees_
+
+**Task 6: View Table Structure**
+
+To see the columns and data types:
+```bash
+DESCRIBE employees;
+```
+This shows:
+- Column names
+- Data types
+- Primary key
+
+**Validation Checklist**
+
+- [x] Database created successfully
+- [x] Table created without errors
+- [x] Table structure can be viewed
+- [x] Student understands rows vs columns
