@@ -47,3 +47,34 @@ Confirm creation:
 SHOW DATABASES;
 ```
 You should see brightmart in the list.
+
+**Task 3: Use the Database**
+
+Before creating tables, tell MySQL which database to use.
+```bash
+USE brightmart;
+```
+You should see:
+_Database changed_
+
+**Task 4: Create Your First Table**
+
+You will create a table called employees.
+```bash
+CREATE TABLE employees (
+    employee_id INT PRIMARY KEY,
+    full_name VARCHAR(100),
+    email VARCHAR(100),
+    age INT,
+    department VARCHAR(50)
+);
+```
+Press Enter.
+If successful, MySQL will respond:
+_Query OK_
+
+**Task 5: View Tables in the Database**
+```bash
+SHOW TABLES;
+```
+You should see: _employees_
