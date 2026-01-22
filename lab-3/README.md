@@ -28,6 +28,7 @@ Display the data when requested
 This is your first time working with real data in MySQL.
 
 **Task 1: Log Into MySQL and Select the Database**
+
 Open Command Prompt or Terminal.
 Log in:
 ```bash
