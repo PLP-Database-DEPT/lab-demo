@@ -1,8 +1,4 @@
-# Lab 5: Filtering Data Using WHERE, AND, OR
-
-## Lab Title
-
-**Lab 5: Finding Specific Employees in the Database**
+## Lab 5: Finding Specific Employees in the Database
 
 
 ## Lab Duration
@@ -105,19 +101,6 @@ OR department = 'IT';
 1. What is the difference between AND and OR?
 2. When would you use OR instead of AND?
 3. Why is filtering important in databases?
-
----
-
-## Submission Requirements
-
-* Screenshots of:
-
-  * One WHERE query
-  * One AND query
-  * One OR query
-
-File name format:
-**Lab5_MySQL_Where_And_Or_StudentName**
 
 ---
 
