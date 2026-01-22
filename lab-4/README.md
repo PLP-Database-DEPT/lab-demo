@@ -1,12 +1,5 @@
-# Lab 4: Updating and Deleting Data in MySQL
+## Lab 4: Correcting and Removing Employee Records
 
-## Lab Title
-
-**Lab 4: Correcting and Removing Employee Records**
-
-## Lab Type
-
-Scenario-Based SQL Lab (Beginner)
 
 ## Lab Duration
 
@@ -120,19 +113,6 @@ Doing so will change or delete **all records**.
 1. Why is WHERE important in UPDATE and DELETE?
 2. What could happen if you forget the WHERE clause?
 3. When should data be updated instead of deleted?
-
----
-
-## Submission Requirements
-
-* Screenshots of:
-
-  * UPDATE command
-  * DELETE command
-  * Final SELECT output
-
-File name format:
-**Lab4_MySQL_Update_Delete_StudentName**
 
 ---
 
