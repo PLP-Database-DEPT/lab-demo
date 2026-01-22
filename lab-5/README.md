@@ -4,9 +4,6 @@
 
 **Lab 5: Finding Specific Employees in the Database**
 
-## Lab Type
-
-Scenario-Based SQL Lab (Beginner)
 
 ## Lab Duration
 
